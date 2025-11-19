@@ -1,1 +1,11 @@
 Requirements
+
+1. total profit
+2. total sales
+3. total customer
+4. total orders
+5. filter by segment
+6. total sales by month
+7. total sales by quarter
+8. total sales by year 
+9. total sales and profit by market 
