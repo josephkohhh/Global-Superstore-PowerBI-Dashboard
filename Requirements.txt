@@ -1,5 +1,7 @@
 Requirements
 
+
+Dashboard:
 1. total profit
 2. total sales
 3. total customer
@@ -9,3 +11,11 @@ Requirements
 7. total sales by quarter
 8. total sales by year 
 9. total sales and profit by market 
+10. static visuals for total profit and sales
+11. add kpi to check if hit target by each year (target: $3m/year)
+12. add gauge showing how far from target kpi
+
+
+Map:
+1. Use a map to show profit (green = highest, blue = middle, red=lowest)
+2. Use a filled map to show sum of sales by country (>$1m = green, <$1m = red)
